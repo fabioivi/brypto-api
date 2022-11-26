@@ -41,5 +41,5 @@ app.delete('/products/:id', async (req,res)=>{
 })
 
 app.listen(PORT, ()=>{
-    console.log(`O servidor está rodando na porta ${PORT}`)
+    console.log(`O servidor está rodando na porta ${PORT} ;)`)
 })
